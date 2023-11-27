@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
+    <router id="standard">
+        <route id="video29virtualtypes2" frontName="video29virtualtypes2">
+            <module name="Video29_VirtualTypes2" />
+        </route>
+    </router>
+</config>
