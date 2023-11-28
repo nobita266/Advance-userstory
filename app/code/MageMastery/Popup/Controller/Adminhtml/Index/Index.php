@@ -18,7 +18,7 @@ class Index extends \Magento\Backend\App\Action
         $page->setActiveMenu('MageMastery_Popup::popup');
         $page->addBreadcrumb(__('Popups'), __('Popups'));
         $page->addBreadcrumb(__('Manage Popups'), __('Manage Popups'));
-        $page->getConfig()->getTitle()->prepend(__('Pages'));
+        $page->getConfig()->getTitle()->prepend(__('Popups'));
 
         return $page;
     }
